@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\LINQpart4\LINQpart4\bin\Debug\LINQpart4.exe.config
+C:\Users\User\source\repos\LINQpart4\LINQpart4\bin\Debug\LINQpart4.exe
+C:\Users\User\source\repos\LINQpart4\LINQpart4\bin\Debug\LINQpart4.pdb
+C:\Users\User\source\repos\LINQpart4\LINQpart4\obj\Debug\LINQpart4.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LINQpart4\LINQpart4\obj\Debug\LINQpart4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LINQpart4\LINQpart4\obj\Debug\LINQpart4.exe
+C:\Users\User\source\repos\LINQpart4\LINQpart4\obj\Debug\LINQpart4.pdb
